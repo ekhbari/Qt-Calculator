@@ -1,4 +1,4 @@
-# Qt Calc
+# Qt Calc (Arabic)
 
 Simple GUI Calc using **Qt Widgets** & **C++**.
 
