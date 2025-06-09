@@ -1,7 +1,5 @@
 # Qt Calc (Arabic)
 
-Simple GUI Calc using **Qt Widgets** & **C++**.
-
 ## Features
 - Basic ops: `+`, `-`, `*`, `/`
 - Clear btn (C), Equals btn (=)
